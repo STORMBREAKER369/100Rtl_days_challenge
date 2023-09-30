@@ -1,0 +1,86 @@
+$date
+Sat Sep 30 10:47:33 2023
+$end
+$version
+Riviera-PRO Version 2022.04.117.8517
+$end
+$timescale
+1 ns
+$end
+
+$scope module testbench_day2 $end
+$var wire 1 ! p1y $end
+$var wire 1 " p2y $end
+$var reg 1 # p1a $end
+$var reg 1 $ p1b $end
+$var reg 1 % p1c $end
+$var reg 1 & p1d $end
+$var reg 1 ' p2a $end
+$var reg 1 ( p2b $end
+$var reg 1 ) p2c $end
+$var reg 1 * p2d $end
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+1!
+1"
+0#
+0$
+0%
+0&
+0'
+0(
+0)
+0*
+$end
+#10
+1&
+1*
+#20
+1%
+0&
+1)
+0*
+#30
+1&
+1*
+#40
+1$
+0%
+0&
+1(
+0)
+0*
+#50
+1&
+1*
+#60
+1%
+0&
+1)
+0*
+#70
+1&
+1*
+#80
+1#
+0%
+0&
+1'
+0)
+0*
+#90
+1&
+1*
+#100
+1%
+0&
+1)
+0*
+#110
+1&
+1*
+0!
+0"
+#120
