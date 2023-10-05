@@ -1,0 +1,37 @@
+timestamp=1696530103919
+
+[~A]
+LastVerilogToplevel=testbench_day6
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*594*1296
+
+[~MFT]
+0=5|0work.mgf|1296|0
+1=3|1work.mgf|2805|0
+3=6|3work.mgf|1159|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c92161d66b823d9e96dad487f6cdc74efdcee
+
+[day6]
+A/day6=22|../design.sv|1|1*390
+BinL64/day6=3*174
+R=../design.sv|1
+SLP=3*279
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|a8b2b496274bef09cae3d15f1c717d25de50cb3a5c0ce8ea4df84b0c34af9ab3
+
+[testbench_day6]
+A/testbench_day6=22|../testbench.sv|1|1*2805
+BinL64/testbench_day6=3*411
+R=../testbench.sv|1
+SLP=3*1159
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|531db976bd1c37256c42b0035752a35f5d2fb481b7358e1a9effbb609e3bd90476e41550d9bc4ddd485f04f1b1b6fca3
+
+[~U]
+$root=12|0*0|
+day6=12|0*182|
+testbench_day6=12|0*417||0x10
