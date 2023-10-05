@@ -1,0 +1,40 @@
+$date
+Thu Oct  5 14:17:49 2023
+$end
+$version
+Riviera-PRO Version 2022.04.117.8517
+$end
+$timescale
+1 ns
+$end
+
+$scope module testbench_day7 $end
+$var wire 1 ! z $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var reg 1 $ x $end
+$var reg 1 % y $end
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+1!
+0"
+0#
+0$
+0%
+$end
+#10
+1$
+0!
+1"
+#20
+0$
+1%
+1!
+0"
+#30
+1$
+1#
+0!
+#40
